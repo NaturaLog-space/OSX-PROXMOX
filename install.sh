@@ -7,7 +7,7 @@
 # https://luchina.com.br
 #
 #########################################################################################################################
-
+echo MacOS ProxMox
 clear
 
 if [ -e /root/OSX-PROXMOX ]; then rm -rf /root/OSX-PROXMOX; fi;
